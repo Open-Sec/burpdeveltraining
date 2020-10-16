@@ -10,7 +10,7 @@ hs_err_pid*
 dist/
 build/
 build.xml
- 
+
 #netbeans specific
 core
 nbproject/*
@@ -19,10 +19,11 @@ lib/*
 manifest.mf
 .jacocoverage/
 coverage/
- 
+src/*
+
 #java specific
 *.class
- 
+
 #general swap/backup files
 *.so
 *.log
